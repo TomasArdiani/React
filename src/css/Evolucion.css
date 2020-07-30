@@ -1,0 +1,36 @@
+.container-evolucion{
+background-color: gray;
+
+border: outset;
+border-radius: 10px;
+box-shadow: 0 0 10px #00000050;
+color:  white;
+
+}
+.titulo-evolucion{
+    padding: px;
+    margin: 10px;
+    border: white 5px outset;
+    background-color:rgba(73, 73, 72, 0.678);
+    border-radius: 10px;
+    position: relative;
+    left: 33%;
+}
+
+.mes-evolucion{
+    display: flex;
+}
+
+.cant-evolucion{
+    display: flex;
+
+   
+}
+.componente-mes{
+    text-align: center;
+    min-width: 100px;
+    border: white 2px outset;
+    background-color:rgba(73, 73, 72, 0.678);
+    border-radius: 10px;
+    margin: 5px
+}
